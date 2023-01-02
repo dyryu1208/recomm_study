@@ -3,10 +3,6 @@
 본 리포지토리는 추천시스템 관련 연습 코드를 포함
 
 
-
-### 이준 바보 멍청이
-
-
 ## 참고자료
 
 - [Python을 이용한 개인화 추천시스템](http://www.crbooks.co.kr/02_book/?mcode=0402020000&page=1&kind=all&keyword=%EA%B0%9C%EC%9D%B8%ED%99%94+%EC%B6%94%EC%B2%9C+%EC%8B%9C%EC%8A%A4%ED%85%9C&mode=2&no=531)
