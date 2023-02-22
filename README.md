@@ -11,5 +11,5 @@
 
 ## 목차
 1. [recomm_basic](/recomm_basic) : 위 참고자료 중 1번째 도서를 읽고 관련 코드 작성
-2. [recomm_test](/recomm_test) : [실제 크롤러](https://github.com/dyryu1208/amazon_crawler_2.0)에서 수집한 데이터를 바탕으로 recomm_basic의 코드 적용
+2. [recomm_test](/recomm_test) : [실제 크롤러](https://github.com/dyryu1208/amazon_crawler_2.0)에서 수집한 데이터를 바탕으로 recomm_basic의 코드 적용 + Upstage 경진대회 Baseline-NeuMF 코드 포함
 3. [recomm_real](/recomm_real) : 위 참고자료 중 2번째 LearningSpoons 강의를 수강 후 관련 코드 작성
